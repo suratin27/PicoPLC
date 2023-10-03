@@ -1,7 +1,7 @@
 # PicoPLC
  This is PICO Board FX2N Library
 # Edition released
- # - v 1.0.0 
+  - v 1.0.0 
 
 # Function descriptions
   void     initPLC();       >> Must be in setup funtion
